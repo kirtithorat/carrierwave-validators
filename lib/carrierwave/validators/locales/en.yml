@@ -1,0 +1,13 @@
+en:
+  errors:
+    messages:
+      in: "file size must be in between %{min} %{min_unit} and %{max} %{max_unit}"
+      greater_than: "file size must be greater than %{count} %{unit}"
+      greater_than_or_equal_to: "file size must be greater than or equal to %{count} %{unit}"
+      less_than: "file size must be less than %{count} %{unit}"
+      less_than_or_equal_to: "file size must be less than or equal to %{count} %{unit}"
+
+  size:
+    units:
+      one: "Byte"
+      other: "Bytes"
