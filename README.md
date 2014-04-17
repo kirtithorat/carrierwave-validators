@@ -89,8 +89,8 @@ The Active Record validations use the Rails i18n framework. Include the followin
 
       size:
         units:
-        one: "Byte"
-        other: "Bytes"
+          one: "Byte"
+          other: "Bytes"
 
 ## TODO
 
